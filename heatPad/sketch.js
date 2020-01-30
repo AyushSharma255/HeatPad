@@ -10,7 +10,7 @@ class HeatNode {
 var collection = [];
 
 function setup() {
-    createCanvas(displayWidth, displayHeight);
+    createCanvas(windowWidth, windowHeight);
     noStroke();
 }
 
