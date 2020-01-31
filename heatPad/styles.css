@@ -3,3 +3,7 @@ canvas {
     margin: auto;
     display: block;
 }
+
+body {
+    overlfow: hidden;
+}
